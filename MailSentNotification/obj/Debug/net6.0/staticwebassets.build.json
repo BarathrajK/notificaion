@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AU8ivShUE6wFoj7u1kc8sdEvHHghVVKKtjGOz6XiOEc=",
+  "Source": "MailSentNotification",
+  "BasePath": "_content/MailSentNotification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
